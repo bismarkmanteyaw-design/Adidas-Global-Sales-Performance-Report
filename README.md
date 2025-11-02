@@ -1,6 +1,7 @@
 # Adidas-Global-Sales-Performance-Report
 **OVERVEIW**
 This project presents an interactive sales Dashboard built to analyze Adidas’ global sales and profitability performance across multiple dimensions such as product, religion, retailers, and sales methods. The dashboard offers decision-markers a dear view of business performance, enabling data-driven insights into what’s driving growth and profitability.
+![6f4e0259441d4896a388de890f9dae12](https://github.com/user-attachments/assets/2378c16d-6047-4fe8-be61-4c2d38d21d81)
 
 
 **Objectives**
@@ -10,7 +11,7 @@ This project presents an interactive sales Dashboard built to analyze Adidas’ 
 * To visualize monthly sales and operating profit for trend analysis.
 
 
-Key Insights
+**Key Insights**
 1. Overall Performance
 * Total sales: $120M
 * Operating Profit: $33M
@@ -18,7 +19,7 @@ Key Insights
 This figures highlight a solid profit margin across multiple sales channels.
 
 
-2. Performance by Product
+2. **Performance by Product**
 
    
 | Product                  | Total Sales ($M) | Operating Profit ($M) |
@@ -32,13 +33,17 @@ This figures highlight a solid profit margin across multiple sales channels.
 Men’s Street Footwear leads both sales and profit, making it Adidas’ top-performing product category.
 
 
-3. Sales method Analysis
+3. **Sales method Analysis**
 ---
    | Region                  | Total Sales ($M)|
 |---------------------------|------------------|
 | west                      | 36               | 
 | Northeast                 | 25               |
 | southeast                 | 21               |
+
+
+
+
 | south                     | 17               | 
  
 
