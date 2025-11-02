@@ -19,6 +19,7 @@ This figures highlight a solid profit margin across multiple sales channels.
 
 
 2. Performance
+
    | Product                  | Total Sales ($M) | Operating Profit ($M) |
 |---------------------------|------------------|------------------------|
 | Women’s Street Footwear   | 27.68            | 89.28                  |
