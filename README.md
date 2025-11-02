@@ -27,12 +27,21 @@ This figures highlight a solid profit margin across multiple sales channels.
 | Men’s Athletic Footwear   | 20.53            | 5.17                   |
 | Women’s Apparel           | 23.81            | 6.86                   |
 
-
+---
 
 Men’s Street Footwear leads both sales and profit, making it Adidas’ top-performing product category.
 
 
 3. Sales method Analysis
+---
+   | Region                  | Total Sales ($M)|
+|---------------------------|------------------|
+| west                      | 36               | 
+| Northeast                 | 25               |
+| southeast                 | 21               |
+| south                     | 17               | 
+ 
+
 
 
    
