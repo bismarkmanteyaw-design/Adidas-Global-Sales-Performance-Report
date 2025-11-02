@@ -19,4 +19,15 @@ This figures highlight a solid profit margin across multiple sales channels.
 
 
 2. Performance
+   | Product                  | Total Sales ($M) | Operating Profit ($M) |
+|---------------------------|------------------|------------------------|
+| Women’s Street Footwear   | 27.68            | 89.28                  |
+| Men’s Athletic Footwear   | 20.53            | 5.17                   |
+| Women’s Apparel           | 23.81            | 6.86                   |
+
+Men’s Street Footwear leads both sales and profit, making it Adidas’ top-performing product category.
+
+3. Sales method Analysis
+
+
    
